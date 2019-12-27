@@ -1,2 +1,2 @@
 ## Starter files for Single Page React App with CSS Modules
-Heavily influenced by [Tania Rascia's]('https://github.com/taniarascia') [webpack-boilerplate repo]('https://github.com/taniarascia/webpack-boilerplate).
+Heavily influenced by [Tania Rascia's](https://github.com/taniarascia) [webpack-boilerplate repo](https://github.com/taniarascia/webpack-boilerplate).
