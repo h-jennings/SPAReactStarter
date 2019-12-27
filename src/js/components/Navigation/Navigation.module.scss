@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+
+  li:nth-child(2) {
+    margin-left: 20px;
+  }
+}
