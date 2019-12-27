@@ -7,13 +7,13 @@
     "dev": "cross-env NODE_ENV=development webpack-dev-server --config config/webpack.dev.js",
     "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.js"
   },
-  "author": "",
+  "author": "Hunter Jennings",
+  "repository": "https://github.com/h-jennings/SPAReactStarter",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "@babel/preset-react": "^7.7.4",
-    "autoprefixer": "^9.7.3",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^5.1.1",
@@ -45,13 +45,10 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "@xstate/react": "^0.8.1",
     "dotenv-webpack": "^1.7.0",
-    "framer-motion": "^1.7.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-router-dom": "^5.1.2",
-    "xstate": "^4.7.3"
+    "react-router-dom": "^5.1.2"
   }
 }
